@@ -42,9 +42,10 @@ button{
     background-image: url(/images/icon-dice.svg);
     background-repeat: no-repeat;
     background-size: cover;
-    width: 35px;
-    height: 35px;
+    width: 40px;
+    height: 40px;
     border-radius: 10px;
+    border: none;
     cursor: pointer;
 }
 
