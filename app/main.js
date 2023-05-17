@@ -12,7 +12,7 @@ async function showAdvice(){
      let id = data.slip.id
 
      idAdvice.innerText = `${id}`
-     advicetxt.innerText = `${advice}`
+     advicetxt.innerText = `" ${advice} "`
 }
 
 showAdvice()

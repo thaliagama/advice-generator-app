@@ -34,6 +34,13 @@ main{
     font-weight: bold;
     letter-spacing: 0.2em;
 }
+
+#advice{
+    font-size: 1.2em;
+    font-weight: bold;
+    color: var(--LightCyan);
+}
+
 #img-pattern{
     width: 400px;
 }
