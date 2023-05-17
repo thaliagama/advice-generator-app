@@ -38,6 +38,17 @@ main{
     width: 400px;
 }
 
+#dice{
+    margin-top: 15px;
+    width: 35px;
+    cursor: pointer;
+}
+
+#dice:hover{
+    background-color: var(--NeonGreen);
+    border: 5px solid var(--NeonGreen);
+    border-radius: 10px;
+}
 
 .attribution { font-size: 11px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
